@@ -189,7 +189,12 @@ footer {
     }
 }
 
-#services .col-md-4 {
+#services .col-md-4,
+#services .col-md-5,
+#services .col-md-6,
+#services .col-md-7,
+#services .col-md-8,
+#services .col-md-9 {
     padding-left: 0px;
     padding-right: 0px
 }
