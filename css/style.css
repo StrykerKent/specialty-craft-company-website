@@ -54,6 +54,7 @@
 
 .hero-text {
     color: #fff;
+    max-width: 790px;
 }
 
 .hero-secondary-text {
@@ -185,12 +186,7 @@ footer {
     }
 }
 
-#services .col-md-4,
-.col-md-5,
-.col-md-6,
-.col-md-7,
-.col-md-8,
-.col-md-9 {
+#services .col-md-4 {
     padding-left: 0px;
     padding-right: 0px
 }
