@@ -1,3 +1,3 @@
-# Industrial Specialty Crafts Website | [ISCrafts.net](https://www.iscrafts.net)
-Concept for the new Industrial Specialty Crafts site.    
+# A Specialty Crafts Website
+Concept for an industrial specialty crafts company's website.    
 Used JavaScript, HTML, CSS, and Bootstrap 4.
